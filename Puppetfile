@@ -30,11 +30,11 @@ mod 'ssh',
 
 mod 'role',
   :git => 'https://github.com/githubthrowaway9987/puppet-role.git',
-  :ref => 'development'
+  :ref => 'master'
 
 mod 'profile',
   :git => 'https://github.com/githubthrowaway9987/puppet-profile.git',
-  :ref => 'development'
+  :ref => 'master'
 
 
 
