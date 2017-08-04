@@ -22,17 +22,17 @@ mod "puppetlabs/ntp",         '6.2.0'
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
 
-mod 'ssh',
-  :git => 'https://github.com/githubthrowaway9987/puppet-ssh.git',
-  :ref => 'master'
+#mod 'ssh',
+#  :git => 'https://github.com/githubthrowaway9987/puppet-ssh.git',
+#  :ref => 'master'
 
-mod 'role',
-  :git => 'https://github.com/githubthrowaway9987/puppet-role.git',
-  :ref => 'development'
+#mod 'role',
+#  :git => 'https://github.com/githubthrowaway9987/puppet-role.git',
+#  :ref => 'development'
 
-mod 'profile',
-  :git => 'https://github.com/githubthrowaway9987/puppet-profile.git',
-  :ref => 'development'
+#mod 'profile',
+#  :git => 'https://github.com/githubthrowaway9987/puppet-profile.git',
+#  :ref => 'development'
 
 
 
